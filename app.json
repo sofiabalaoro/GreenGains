@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Green Gains",
+    "slug": "Project",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./img/icon.png",
+    "splash": {
+    "image": "./img/splash.png",
+    "resizeMode": "contain"
+    },
+    "android": {
+        "versionCode": 1,
+        "package": "com.pamaso.GreenGains"
+    }
+  }
+}
